@@ -105,6 +105,23 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
+    title: '圈内名人',
+    items: [
+      {
+        icon: '/icons/touzi.webp',
+        title: '擅长捉弄の高木同学',
+        desc: '高木圈知名B站UP主，外号“头子”',
+        link: 'https://space.bilibili.com/2709173/'
+      },
+      {
+        icon: '/icons/takagi-camerata.webp',
+        title: '高木同学同好会',
+        desc: '民间粉丝团体“高木同学同好会”B站公号',
+        link: 'https://space.bilibili.com/1415908672/'
+      }
+    ]
+  },
+  {
     title: '其他',
     items: [
       {
@@ -124,23 +141,27 @@ export const NAV_DATA: NavData[] = [
         title: '“高木同学振兴会”官网',
         desc: '民间粉丝团体“高木同学振兴会”官网',
         link: 'https://takagisan.cn'
-      }
-    ]
-  },
-  {
-    title: '圈内名人',
-    items: [
-      {
-        icon: '/icons/touzi.webp',
-        title: '擅长捉弄の高木同学',
-        desc: '高木圈知名B站UP主，外号“头子”',
-        link: 'https://space.bilibili.com/2709173/'
       },
       {
-        icon: '/icons/takagi-camerata.webp',
-        title: '高木同学同好会',
-        desc: '民间粉丝团体“高木同学同好会”B站公号',
-        link: 'https://space.bilibili.com/1415908672/'
+        icon: '/icons/Gesun-203-Jan-cover-modified.webp',
+        title: '《高木同学》内容仓库集群',
+        desc: '关于《高木同学》项目的Github组织页面',
+        link: 'https://github.com/TakagisanArchiveRepos'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: '高木资料站Github仓库',
+        link: 'https://github.com/TakagisanArchiveRepos/VuePress-TakagiWiki'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: '高木站点导航Github仓库',
+        link: 'https://github.com/TakagisanArchiveRepos/Takagi-NavSite'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'AI高木程序Github仓库',
+        link: 'https://github.com/mrtank2333/AITakagi-san_Powered_By_ChatGPT_Client'
       }
     ]
   }

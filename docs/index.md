@@ -3,9 +3,9 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 《高木同学》相关的
-  text: 粉丝自制/民间站点导航
-  tagline: 使用 VitePress 打造个人前端导航<br/>站长：@轻虹空雨
+  name: 《高木同学》
+  text: 相关站点导航
+  tagline: 力求聚合高木粉的能量 | 站长：@轻虹空雨
   image:
     src: https://pic.imgdb.cn/item/64a66fdf1ddac507ccbfac9d.webp
     alt: 高木同学站点导航
@@ -32,6 +32,9 @@ features:
   - icon: 🧰
     title: 其他
     details: 其他由粉丝制作的网站
+  - icon: 😊
+  - title: 圈内名人/站点建设者
+  - details: 圈子不大，能人辈出
 ---
 
 <style>

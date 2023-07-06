@@ -10,7 +10,7 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# 通知
+# 站点列表
 
 ::: tip
 **欢迎访问 高木同学站点导航** |

@@ -33,11 +33,13 @@ export default defineConfig({
       label: '本页目录'
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-fe-nav' }],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/MuFeng086/vitepress-fe-nav' }
+    ],
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao'
+      message: '2023 高木同学站点导航',
+      copyright: 'Made by 轻虹空雨 | Designed by 茂茂'
     },
 
     darkModeSwitchLabel: '外观',

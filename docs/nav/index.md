@@ -10,16 +10,16 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# 前端导航
+# 通知
 
 ::: tip
-该导航由 [maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-fe-nav>
+**欢迎访问 高木同学站点导航**
+**站长：**@[轻虹空雨](https://mufeng086.com)
+**收录申请：**[Feedback@takagi3.cn](mailto:feedback@takagi3.cn)
 :::
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
-<br />
-
 ::: tip
-该导航由 [maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-fe-nav>
+本站前端模板由 [maomao](https://github.com/maomao1996) 开发，源项目地址：https://github.com/maomao1996/vitepress-fe-nav
 :::

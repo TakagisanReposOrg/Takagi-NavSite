@@ -10,31 +10,31 @@ export const NAV_DATA: NavData[] = [
     title: '官方相关',
     items: [
       {
-        icon: '/docs/public/icons/yamamoto.webp',
+        icon: 'icons/yamamoto.webp',
         title: '山本崇一朗-推特',
         desc: '《高木同学》原作者',
         link: 'https://twitter.com/udon0531'
       },
       {
-        icon: '/docs/public/icons/dp6h9JiL.webp',
+        icon: 'icons/dp6h9JiL.webp',
         title: '稲葉光史-推特',
         desc: '《《原）高木同学》作者',
         link: 'https://twitter.com/Y6W9v'
       },
       {
-        icon: '/docs/public/icons/takagi3_anime.webp',
+        icon: 'icons/takagi3_anime.webp',
         title: '动画官方推特',
         desc: '《高木同学》动画官方SNS账号',
         link: 'https://twitter.com/takagi3_anime'
       },
       {
-        icon: '/docs/public/icons/takagi3_anime.webp',
+        icon: 'icons/takagi3_anime.webp',
         title: '动画官网',
         desc: '《高木同学》动画官网（默认为剧场版页面）',
         link: 'https://takagi3.me/'
       },
       {
-        icon: '/docs/public/icons/geekan-sunday.ico',
+        icon: 'icons/geekan-sunday.ico',
         title: '《月刊少年》杂志官网',
         desc: '原作漫画连载杂志的官网',
         link: 'https://gekkansunday.net/'

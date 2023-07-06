@@ -23,7 +23,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    logo: '/docs/public/Gesun-203-Jan-cover-modified.webp',
+    logo: '/icons/Gesun-203-Jan-cover-modified.webp',
 
     nav,
     sidebar,

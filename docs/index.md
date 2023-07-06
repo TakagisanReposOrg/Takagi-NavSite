@@ -7,7 +7,7 @@ hero:
   text: 相关站点导航
   tagline: 力求聚合高木粉的能量 | 站长：@轻虹空雨
   image:
-    src: https://pic.imgdb.cn/item/64a66fdf1ddac507ccbfac9d.webp
+    src: /icons/Gesun-203-Jan-cover-modified.webp
     alt: 高木同学站点导航
   actions:
     - text: 站点列表

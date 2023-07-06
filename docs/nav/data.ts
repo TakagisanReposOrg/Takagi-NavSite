@@ -45,19 +45,19 @@ export const NAV_DATA: NavData[] = [
     title: '民间自建站点',
     items: [
       {
-        icon: '/icons/takagi-wiki.ico',
+        icon: '/icons/takagi-wiki.webp',
         title: '高木同学资料站',
         desc: '类wiki资料信息站 (by @一只鬆）',
         link: 'https://wiki.takagi3.cn/'
       },
       {
-        icon: '/icons/takagi-fanclub.ico',
+        icon: '/icons/takagi-fanclub.webp',
         title: '高木同学Fan社区',
         desc: '属于高木厨的独立社区论坛 (by @轻虹空雨）',
         link: 'https://club.takagi3.cn/'
       },
       {
-        icon: '/icons/takagi-imgshare.ico',
+        icon: '/icons/takagi-imgshare.webp',
         title: '高木同学共享云图仓 (by @轻虹空雨）',
         desc: '实用&共享的高木美图云仓',
         link: 'https://shareimg.takagi3.cn/'
@@ -120,7 +120,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://bingchat.takagi3.top'
       },
       {
-        icon: '/icons/takagicrop.webp',
+        icon: '/icons/tkgcrop.webp',
         title: '“高木同学振兴会”官网',
         desc: '民间粉丝团体“高木同学振兴会”官网',
         link: 'https://takagisan.cn'
@@ -132,7 +132,7 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: '/icons/touzi.webp',
-        title: '',
+        title: '擅长捉弄の高木同学',
         desc: '高木圈知名B站UP主，外号“头子”',
         link: 'https://space.bilibili.com/2709173/'
       },

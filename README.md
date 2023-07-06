@@ -1,4 +1,4 @@
-# vitepress-fe-nav
+# Vitepress-fe-nav
 
 > `VitePress` 基础模板
 

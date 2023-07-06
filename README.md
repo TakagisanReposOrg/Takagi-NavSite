@@ -1,18 +1,9 @@
-# Vitepress-fe-naV
+# 高木同学站点导航
 
-> `VitePress` 基础模板
-
-## 访问地址
-
-- <https://fe-nav.netlify.app/nav/>
-- <https://maomao1996.github.io/vitepress-fe-nav/nav/>
-
-## 功能
-
-- 新增 `layout-class` 方便更好的自定义样式
-- 默认中文
-- 自带前端导航模块
+聚合《高木同学》相关的官方及民间网站、链接等。
+基于 VitePress 前端导航模板
 
 ## 说明
 
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-fe-nav>
+前端页面模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发。
+源项目地址 - Vitepress-fe-naV：https://github.com/maomao1996/vitepress-fe-nav

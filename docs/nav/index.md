@@ -13,8 +13,8 @@ import { NAV_DATA } from './data'
 # 通知
 
 ::: tip
-**欢迎访问 高木同学站点导航**
-**站长：**@[轻虹空雨](https://mufeng086.com)
+**欢迎访问 高木同学站点导航** |
+**站长：**@[轻虹空雨](https://mufeng086.com) |
 **收录申请：**[Feedback@takagi3.cn](mailto:feedback@takagi3.cn)
 :::
 

@@ -8,6 +8,6 @@ export const nav: DefaultTheme.Config['nav'] = [
   },
   {
     text: '友情赞助',
-    link: 'https://mufeng86.com/support'
+    link: 'https://mufeng086.com/support'
   }
 ]

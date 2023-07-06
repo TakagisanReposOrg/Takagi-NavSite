@@ -7,8 +7,8 @@ export default defineConfig({
   base: process.env.APP_BASE_PATH || '/',
 
   lang: 'zh-CN',
-  title: '茂茂物语',
-  description: '茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等',
+  title: '高木同学站点导航',
+  description: '聚合《高木同学》有关链接的网站',
   head,
 
   lastUpdated: true,
@@ -23,7 +23,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    logo: '/logo.png',
+    logo: '/docs/public/Gesun-203-Jan-cover-modified.webp',
 
     nav,
     sidebar,

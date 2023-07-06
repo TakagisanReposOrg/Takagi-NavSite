@@ -7,37 +7,37 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '常用工具',
+    title: '官方相关',
     items: [
       {
-        icon: 'https://caniuse.com/img/favicon-128.png',
-        title: 'Can I use',
-        desc: '前端 API 兼容性查询',
-        link: 'https://caniuse.com'
+        icon: '/docs/public/icons/yamamoto.webp',
+        title: '山本崇一朗-推特',
+        desc: '《高木同学》原作者',
+        link: 'https://twitter.com/udon0531'
       },
       {
-        icon: 'https://tinypng.com/images/apple-touch-icon.png',
-        title: 'TinyPNG',
-        desc: '在线图片压缩工具',
-        link: 'https://tinypng.com'
+        icon: '/docs/public/icons/dp6h9JiL.webp',
+        title: '稲葉光史-推特',
+        desc: '《《原）高木同学》作者',
+        link: 'https://twitter.com/Y6W9v'
       },
       {
-        icon: 'https://devtool.tech/logo.svg',
-        title: '开发者武器库',
-        desc: '开发者武器库，做开发者最专业最好用的专业工具箱',
-        link: 'https://devtool.tech'
+        icon: '/docs/public/icons/takagi3_anime.webp',
+        title: '动画官方推特',
+        desc: '《高木同学》动画官方SNS账号',
+        link: 'https://twitter.com/takagi3_anime'
       },
       {
-        icon: 'https://tool.lu/favicon.ico',
-        title: '在线工具',
-        desc: '开发人员的工具箱',
-        link: 'https://tool.lu'
+        icon: '/docs/public/icons/takagi3_anime.webp',
+        title: '动画官网',
+        desc: '《高木同学》动画官网（默认为剧场版页面）',
+        link: 'https://takagi3.me/'
       },
       {
-        icon: '/icons/json-cn.ico',
-        title: 'Json 中文网',
-        desc: 'JSON 在线解析及格式化验证',
-        link: 'https://www.json.cn'
+        icon: '/docs/public/icons/geekan-sunday.ico',
+        title: '《月刊少年》杂志官网',
+        desc: '原作漫画连载杂志的官网',
+        link: 'https://gekkansunday.net/'
       }
     ]
   },

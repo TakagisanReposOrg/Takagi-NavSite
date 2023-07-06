@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 import { head, nav, sidebar } from './configs'
 
-export default defineConfig({
+export 默认 defineConfig({
   outDir: '../dist',
-  base: process.env.APP_BASE_PATH || '/',
+  base: process.env。APP_BASE_PATH || '/',
 
   lang: 'zh-CN',
-  title: '高木同学站点导航',
-  description: '聚合《高木同学》有关链接的网站',
+  标题: '高木同学站点导航',
+  描述: '聚合《高木同学》有关链接的网站',
   head,
 
   lastUpdated: true,
@@ -30,11 +30,11 @@ export default defineConfig({
     /* 右侧大纲配置 */
     outline: {
       level: 'deep',
-      label: '本页目录'
+      标签: '本页目录'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/MuFeng086/vitepress-fe-nav' }
+      { icon: 'github', link: 'https://github.com/TakagisanArchiveRepos/Takagi-NavSite' }
     ],
 
     footer: {
@@ -47,8 +47,8 @@ export default defineConfig({
     lastUpdatedText: '上次更新',
 
     docFooter: {
-      prev: '上一篇',
-      next: '下一篇'
+      上一页: '上一篇',
+      下一页: '下一篇'
     }
   }
 })

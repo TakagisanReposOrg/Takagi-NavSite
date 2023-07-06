@@ -16,6 +16,9 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
+          
+      - name: 安装pnpm
+        run: npm install pnpm -g
       
       - name: 生成静态文件
         run: pnpm build

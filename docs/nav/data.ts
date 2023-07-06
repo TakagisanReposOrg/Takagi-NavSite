@@ -108,7 +108,7 @@ export const NAV_DATA: NavData[] = [
     title: '其他',
     items: [
       {
-        icon: '/logo/chatgpt-next-web.svg',
+        icon: '/icons/chatgpt-next-web.svg',
         title: 'ChatGPT-Next-Web',
         desc: '国内可用的二改GPT站点 (访问密钥请联系站长)',
         link: 'https://chatgpt.takagi3.top'

@@ -11,7 +11,7 @@ hero:
     alt: 高木同学站点导航
   actions:
     - text: 站点列表
-      link: /nav/
+      link: https://takagi3.cn/nav
       theme: alt
     - text: 站点状态
       link: https://status.mufeng086.com

@@ -61,6 +61,12 @@ export const NAV_DATA: NavData[] = [
         title: '高木同学共享云图仓',
         desc: '实用&共享的高木美图云仓 (by @轻虹空雨）',
         link: 'https://shareimg.takagi3.cn/'
+      },
+      {
+        icon: '/icons/takagi-filecloud.webp',
+        title: '高木同学文件资料站',
+        desc: '[重建中]大家一般需要的资源，都在这了。',
+        link: 'https://share.takagi3.top'
       }
     ]
   },

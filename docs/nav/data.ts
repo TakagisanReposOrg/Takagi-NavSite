@@ -65,7 +65,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/icons/takagi-filecloud.webp',
         title: '高木同学文件资料站',
-        desc: '[重建中]大家一般需要的资源，都在这了。',
+        desc: '大家一般需要的资源，都在这了。（合作建设）',
         link: 'https://share.takagi3.top'
       }
     ]

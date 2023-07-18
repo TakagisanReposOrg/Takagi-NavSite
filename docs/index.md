@@ -5,7 +5,7 @@ layoutClass: 'm-home-layout'
 hero:
   name: 《高木同学》
   text: 相关站点导航
-  tagline: 力求聚合高木粉的能量 | 本站已收录链接数：24
+  tagline: 力求聚合高木粉的能量
   image:
     src: /icons/Gesun-203-Jan-cover-modified.webp
     alt: 高木同学站点导航

@@ -67,6 +67,12 @@ export const NAV_DATA: NavData[] = [
         title: '高木同学文件资料站',
         desc: '大家一般需要的资源，都在这了。（合作建设）',
         link: 'https://share.takagi3.top'
+      },
+      {
+        icon: 'https://takagi3.me/favicon.ico',
+        title: 'からかい上手の高木さん资源站',
+        desc: '一触即达的资源站（by @松柏陈门）',
+        link: 'https://fujianprovince.github.io/takagi'
       }
     ]
   },

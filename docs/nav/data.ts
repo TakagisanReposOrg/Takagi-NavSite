@@ -1,3 +1,4 @@
+import { title } from 'process'
 import type { NavLink } from './components/type'
 
 type NavData = {
@@ -38,6 +39,30 @@ export const NAV_DATA: NavData[] = [
         title: '《月刊少年》杂志官网',
         desc: '原作漫画连载杂志的官网',
         link: 'https://gekkansunday.net/'
+      },
+      {
+        icon: 'icons/kyun-game.webp',
+        title: '心动记录手游-官网',
+        desc: '含剧情的L2D音乐向手游（已停服）',
+        link: 'https://takagi3game.jp/'
+      },
+      {
+        icon: 'icons/takagi-vr.ico',
+        title: '心动记录手游-官网',
+        desc: '以西片视角与高木互动的VR游戏',
+        link: 'https://vr-takagi3.com/'
+      },
+      {
+        icon: 'icons/tonosho-gov.ico',
+        title: '土庄町政府-官网',
+        desc: '作品舞台-土庄町/小豆岛政府站',
+        link: 'https://www.town.tonosho.kagawa.jp/',
+      },
+      {
+        icon: '',
+        title: '小豆岛观光协会-官网',
+        desc: '濑户内海-小豆岛旅游信息站',
+        link: 'https://shodoshima.or.jp/',
       }
     ]
   },

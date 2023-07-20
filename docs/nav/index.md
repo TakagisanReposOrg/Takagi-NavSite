@@ -18,6 +18,10 @@ import { NAV_DATA } from './data'
 **收录申请：**[Feedback@takagi3.cn](mailto:feedback@takagi3.cn)
 :::
 
+::: tip
+**更新时间：**2023.7.20 19:55 | 目前已收录**29**条链接
+:::
+
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
 ::: tip

@@ -48,7 +48,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'icons/takagi-vr.ico',
-        title: '心动记录手游-官网',
+        title: '高木同学VR游戏-官网',
         desc: '以西片视角与高木互动的VR游戏',
         link: 'https://vr-takagi3.com/'
       },

@@ -16,5 +16,8 @@ export default Object.assign({}, Theme, {
     }
 
     return h(Theme.Layout, props)
+  },
+  googleAnalytics: {
+    id: 'G-KH6J06FP77', // 替换为你的 Google Analytics ID，应该以 'G-' 开头
   }
 })

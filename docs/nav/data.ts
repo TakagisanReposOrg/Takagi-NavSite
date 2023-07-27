@@ -183,7 +183,7 @@ export const NAV_DATA: NavData[] = [
         icon: '/icons/Gesun-203-Jan-cover-modified.webp',
         title: '《高木同学》内容仓库集群',
         desc: '关于《高木同学》项目的Github组织页面',
-        link: 'https://github.com/TakagisanArchiveRepos'
+        link: 'https://github.com/TakagisanReposOrg'
       },
       {
         icon: '/icons/github.svg',

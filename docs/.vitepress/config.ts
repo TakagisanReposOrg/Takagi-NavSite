@@ -34,7 +34,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/TakagisanArchiveRepos/Takagi-NavSite' }
+      { icon: 'github', link: 'https://github.com/TakagisanReposOrg/Takagi-NavSite' }
     ],
 
     footer: {

@@ -188,12 +188,12 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/icons/github.svg',
         title: '高木资料站Github仓库',
-        link: 'https://github.com/TakagisanArchiveRepos/VuePress-TakagiWiki'
+        link: 'https://github.com/TakagisanReposOrg/VuePress-TakagiWiki'
       },
       {
         icon: '/icons/github.svg',
         title: '高木站点导航Github仓库',
-        link: 'https://github.com/TakagisanArchiveRepos/Takagi-NavSite'
+        link: 'https://github.com/TakagisanReposOrg/Takagi-NavSite'
       },
       {
         icon: '/icons/github.svg',

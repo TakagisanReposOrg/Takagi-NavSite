@@ -38,7 +38,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '2023 高木同学站点导航',
+      message: '2023 高木同学站点导航 | Powered by VitePress',
       copyright: 'Made by 轻虹空雨 | Designed by 茂茂'
     },
 

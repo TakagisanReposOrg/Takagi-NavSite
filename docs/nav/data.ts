@@ -71,7 +71,7 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: '/icons/takagi-wiki.webp',
-        title: '高木同学资料站',
+        title: '高木wiki信息站',
         desc: '类wiki资料信息站 (by @一只鬆）',
         link: 'https://wiki.takagi3.cn/'
       },

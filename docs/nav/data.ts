@@ -180,6 +180,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://takagisan.cn'
       },
       {
+        icon: 'https://umami.sotkg.cn/favicon.ico',
+        title: '高木Wiki信息站统计面板',
+        desc: '自建Umami高木Wiki信息站访客统计',
+        link: 'https://umami.sotkg.cn/share/DZNpuogGcuAqoPeU/%E9%AB%98%E6%9C%A8Wiki%E4%BF%A1%E6%81%AF%E7%AB%99',
+      },
+      {
         icon: '/icons/Gesun-203-Jan-cover-modified.webp',
         title: '《高木同学》内容仓库集群',
         desc: '关于《高木同学》项目的Github组织页面',

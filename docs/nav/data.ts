@@ -98,6 +98,12 @@ export const NAV_DATA: NavData[] = [
         title: 'からかい上手の高木さん资源站',
         desc: '一触即达的资源站（by @松柏陈门）',
         link: 'https://fujianprovince.github.io/takagi'
+      },
+      {
+        icon: 'https://pic.mufeng086.com/i/2023/09/16/nc44ft.webp',
+        title: '高木同学同人周边Go',
+        desc: '高木同学同人周边展示区',
+        link: 'https://sell.takagi3.top'
       }
     ]
   },

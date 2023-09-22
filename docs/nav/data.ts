@@ -172,7 +172,7 @@ export const NAV_DATA: NavData[] = [
         icon: '/icons/fan-anime-team.webp',
         title: '木绘社',
         desc: '同人动画制作团队-木绘社',
-        link: 'https://fan-anime.takagi3.top'
+        link: 'https://anime-team.takagi3.top'
       },
     ]
   },

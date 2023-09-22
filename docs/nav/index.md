@@ -19,7 +19,7 @@ import { NAV_DATA } from './data'
 :::
 
 ::: tip
-**更新时间：2023.9.16 16:17** | **目前已收录 31 条链接**
+**更新时间：2023.9.22 12:56** | **目前已收录 32 条链接**
 :::
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>

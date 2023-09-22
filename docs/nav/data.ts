@@ -148,7 +148,7 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
-    title: '圈内名人',
+    title: '圈内名人/团体',
     items: [
       {
         icon: '/icons/touzi.webp',
@@ -161,7 +161,19 @@ export const NAV_DATA: NavData[] = [
         title: '高木同学同好会',
         desc: '民间粉丝团体“高木同学同好会”B站公号',
         link: 'https://space.bilibili.com/1415908672/'
-      }
+      },
+      {
+        icon: '/icons/tkgcrop.webp',
+        title: '“高木同学振兴会”官网',
+        desc: '民间社群粉丝团体“高木同学振兴会”',
+        link: 'https://takagisan.cn'
+      },
+      {
+        icon: '/icons/fan-anime-team.webp',
+        title: '木绘社',
+        desc: '同人动画制作团队-木绘社',
+        link: 'https://fan-anime.takagi3.top'
+      },
     ]
   },
   {
@@ -178,12 +190,6 @@ export const NAV_DATA: NavData[] = [
         title: 'Bing-AI Chat',
         desc: '国内可用的Bing AI站点',
         link: 'https://bingchat.takagi3.top'
-      },
-      {
-        icon: '/icons/tkgcrop.webp',
-        title: '“高木同学振兴会”官网',
-        desc: '民间粉丝团体“高木同学振兴会”官网',
-        link: 'https://takagisan.cn'
       },
       {
         icon: 'https://umami.sotkg.cn/favicon.ico',

@@ -9,7 +9,11 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '高木同学站点导航',
   description: '聚合《高木同学》有关链接的网站',
-  head,
+  head: [
+    // ...
+  
+    ['script', { async: true, src: 'https://analytics.takagi3.top/script.js', 'data-website-id': 'fbf6c344-0f7b-4fdb-8bea-366eb611c5ee' }],
+    ],
 
   lastUpdated: true,
   cleanUrls: true,

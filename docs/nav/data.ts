@@ -8,7 +8,7 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '官方相关',
+    title: '官方相关 ✅',
     items: [
       {
         icon: 'icons/yamamoto.webp',
@@ -63,52 +63,58 @@ export const NAV_DATA: NavData[] = [
         title: '小豆岛观光协会-官网',
         desc: '濑户内海-小豆岛旅游信息站',
         link: 'https://shodoshima.or.jp/',
+      },
+      {
+        icon: '',
+        title: '真人电影官网',
+        desc: '真人改编版电影的官网',
+        link: 'https://takagi3-movie.jp/'
       }
     ]
   },
   {
-    title: '民间自建站点',
+    title: '民间自建站点 🤔',
     items: [
       {
         icon: '/icons/takagi-wiki.webp',
-        title: '高木wiki信息站',
+        title: '✅ 高木轻wiki站',
         desc: '类wiki资料信息站 (by @一只鬆）',
         link: 'https://wiki.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-fanclub.webp',
-        title: '高木同学Fan社区',
+        title: '🟡 高木同学Fan社区',
         desc: '属于高木厨的独立社区论坛 (by @轻虹空雨）',
         link: 'https://club.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-imgshare.webp',
-        title: '高木同学共享云图仓',
+        title: '🟡 高木同学共享云图仓',
         desc: '实用&共享的高木美图云仓 (by @轻虹空雨）',
         link: 'https://shareimg.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-filecloud.webp',
-        title: '高木同学文件资料站',
+        title: '✅ 高木同学文件资料站',
         desc: '大家一般需要的资源，都在这了。（合作建设）',
         link: 'https://share.takagi3.top'
       },
       {
         icon: 'https://takagi3.me/favicon.ico',
-        title: 'からかい上手の高木さん资源站',
+        title: '✅ からかい上手の高木さん资源站 ',
         desc: '一触即达的资源站（by @松柏陈门）',
         link: 'https://fujianprovince.github.io/takagi'
       },
       {
         icon: 'https://pic.mufeng086.com/i/2023/09/16/nc44ft.webp',
-        title: '高木同学同人周边Go',
+        title: '❌ 高木同学同人周边Go',
         desc: '高木同学同人周边展示区',
         link: 'https://sell.takagi3.top'
       }
     ]
   },
   {
-    title: '公共社群',
+    title: '公共社群 ✅',
     items: [
       {
         icon: '/icons/tieba.webp',
@@ -124,11 +130,16 @@ export const NAV_DATA: NavData[] = [
         icon: '/icons/qq.webp',
         title: 'QQ频道',
         link: 'https://pd.qq.com/s/cp4k08j75'
+      },
+      {
+        icon: '/icons/fanbook.webp',
+        title: 'Fanbook社区',
+        link: 'https://in.fanbook.cn/gKGQ6FZj'
       }
     ]
   },
   {
-    title: '百科资料',
+    title: '百科资料 ✅',
     items: [
       {
         icon: '/icons/wikipedia.ico',
@@ -148,74 +159,74 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
-    title: '圈内名人/团体',
+    title: '圈内名人/团体 🤔',
     items: [
       {
         icon: '/icons/touzi.webp',
-        title: '擅长捉弄の高木同学',
+        title: '擅长捉弄の高木同学 ✅',
         desc: '高木圈知名B站UP主，外号“头子”',
         link: 'https://space.bilibili.com/2709173/'
       },
       {
         icon: '/icons/takagi-camerata.webp',
-        title: '高木同学同好会',
+        title: '高木同学同好会 ✅',
         desc: '民间粉丝团体“高木同学同好会”B站公号',
         link: 'https://space.bilibili.com/1415908672/'
       },
       {
         icon: '/icons/tkgcrop.webp',
-        title: '“高木同学振兴会”官网',
+        title: '“高木同学振兴会”官网 ❌',
         desc: '民间社群粉丝团体“高木同学振兴会”',
         link: 'https://takagisan.cn'
       },
       {
         icon: '/icons/fan-anime-team.webp',
-        title: '木绘社',
+        title: '木绘社 ✅',
         desc: '同人动画制作团队-木绘社',
         link: 'https://anime-team.takagi3.top'
       },
     ]
   },
   {
-    title: '其他',
+    title: '其他 🤔',
     items: [
       {
         icon: '/icons/chatgpt-next-web.svg',
-        title: 'ChatGPT-Next-Web',
-        desc: '国内可用的二改GPT站点 (访问密钥请联系站长)',
+        title: '❌ ChatGPT-Next-Web',
+        desc: '国内可用的二改GPT站点',
         link: 'https://chatgpt.takagi3.top'
       },
       {
         icon: '/icons/bing.ico',
-        title: 'Bing-AI Chat',
+        title: '❌ Bing-AI Chat',
         desc: '国内可用的Bing AI站点',
         link: 'https://bingchat.takagi3.top'
       },
       {
         icon: 'https://umami.sotkg.cn/favicon.ico',
-        title: '高木Wiki信息站统计面板',
+        title: '✅ 高木Wiki信息站统计面板',
         desc: '自建Umami高木Wiki信息站访客统计',
         link: 'https://umami.sotkg.cn/share/DZNpuogGcuAqoPeU/%E9%AB%98%E6%9C%A8Wiki%E4%BF%A1%E6%81%AF%E7%AB%99',
       },
       {
         icon: '/icons/Gesun-203-Jan-cover-modified.webp',
-        title: '《高木同学》内容仓库集群',
+        title: '✅ 《高木同学》内容仓库集群',
         desc: '关于《高木同学》项目的Github组织页面',
         link: 'https://github.com/TakagisanReposOrg'
       },
       {
         icon: '/icons/github.svg',
-        title: '高木资料站Github仓库',
+        title: '✅ 高木资料站Github仓库',
         link: 'https://github.com/TakagisanReposOrg/VuePress-TakagiWiki'
       },
       {
         icon: '/icons/github.svg',
-        title: '高木站点导航Github仓库',
+        title: '✅ 高木站点导航Github仓库',
         link: 'https://github.com/TakagisanReposOrg/Takagi-NavSite'
       },
       {
         icon: '/icons/github.svg',
-        title: 'AI高木程序Github仓库',
+        title: '✅ AI高木程序Github仓库',
         link: 'https://github.com/mrtank2333/AITakagi-san_Powered_By_ChatGPT_Client'
       }
     ]

@@ -78,25 +78,25 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/icons/takagi-wiki.webp',
         title: '✅ 高木轻wiki站',
-        desc: '类wiki资料信息站 (by @一只鬆）',
+        desc: '类Wiki资料信息站 (by @一只鬆）',
         link: 'https://wiki.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-fanclub.webp',
-        title: '🟡 高木同学Fan社区',
+        title: '😅 高木同学Fan社区',
         desc: '属于高木厨的独立社区论坛 (by @轻虹空雨）',
         link: 'https://club.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-imgshare.webp',
-        title: '🟡 高木同学共享云图仓',
+        title: '😅 高木同学共享云图仓',
         desc: '实用&共享的高木美图云仓 (by @轻虹空雨）',
         link: 'https://shareimg.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-filecloud.webp',
         title: '✅ 高木同学文件资料站',
-        desc: '大家一般需要的资源，都在这了。（合作建设）',
+        desc: '大家一般需要的资源，都在这了（合作建设）',
         link: 'https://share.takagi3.top'
       },
       {
@@ -182,32 +182,20 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/icons/fan-anime-team.webp',
         title: '木绘社 ✅',
-        desc: '同人动画制作团队-木绘社',
-        link: 'https://anime-team.takagi3.top'
+        desc: '高木同人动画制作团队-木绘社',
+        link: 'https://muhuishe.com'
+      },
+      {
+        icon: '/icons/Gesun-203-Jan-cover-modified.webp',
+        title: '木创社 ✅',
+        desc: '高木民间站点维护团队-木创社',
+        link: 'https://takagi3.top'
       },
     ]
   },
   {
     title: '其他 🤔',
     items: [
-      {
-        icon: '/icons/chatgpt-next-web.svg',
-        title: '❌ ChatGPT-Next-Web',
-        desc: '国内可用的二改GPT站点',
-        link: 'https://chatgpt.takagi3.top'
-      },
-      {
-        icon: '/icons/bing.ico',
-        title: '❌ Bing-AI Chat',
-        desc: '国内可用的Bing AI站点',
-        link: 'https://bingchat.takagi3.top'
-      },
-      {
-        icon: 'https://umami.sotkg.cn/favicon.ico',
-        title: '✅ 高木Wiki信息站统计面板',
-        desc: '自建Umami高木Wiki信息站访客统计',
-        link: 'https://umami.sotkg.cn/share/DZNpuogGcuAqoPeU/%E9%AB%98%E6%9C%A8Wiki%E4%BF%A1%E6%81%AF%E7%AB%99',
-      },
       {
         icon: '/icons/Gesun-203-Jan-cover-modified.webp',
         title: '✅ 《高木同学》内容仓库集群',

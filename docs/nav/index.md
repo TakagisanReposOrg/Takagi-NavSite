@@ -22,7 +22,7 @@ import { NAV_DATA } from './data'
 部分站点（尤其是“民间自建站点”）由于停止维护/项目终止等原因无法访问。
 :::
 ::: info 站点状态标识
-✅：可用 🟡：短期维护/改造中 ❌：长期停运/尚未重启
+✅：可用 😅：短期维护/改造中 ❌：长期停运/尚未重启
 :::
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>

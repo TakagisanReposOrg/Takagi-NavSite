@@ -13,13 +13,10 @@ hero:
     - text: 站点列表
       link: /nav/
       theme: alt
-    - text: 站点状态
-      link: https://status.mufeng086.com
-      theme: alt
 features:
   - icon: 📢
     title: 官方相关
-    details: 与作品本身、ip等有关的地址
+    details: 与作品本身、IP等有关的地址
   - icon: 🛠️
     title: 民间自建站点
     details: 由粉丝建设的、与《高木同学》有关的网站

@@ -95,9 +95,9 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: '/icons/takagi-filecloud.webp',
-        title: '✅ 高木同学文件资料站',
+        title: '✅ 高木同学文件资料（镜像）',
         desc: '大家一般需要的资源，都在这了（合作建设）',
-        link: 'https://share.takagi3.top'
+        link: 'https://al.tkgso.fun'
       },
       {
         icon: 'https://takagi3.me/favicon.ico',

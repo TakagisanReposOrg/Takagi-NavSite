@@ -42,8 +42,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '2023 高木同学站点导航 | Powered by VitePress',
-      copyright: 'Made by 轻虹空雨 | Designed by 茂茂'
+      message: '2024 高木同学站点导航 | Powered by VitePress',
+      copyright: 'Made by 辰灿汐 | Designed by 茂茂'
     },
 
     darkModeSwitchLabel: '外观',

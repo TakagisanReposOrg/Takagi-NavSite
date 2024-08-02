@@ -83,21 +83,21 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: '/icons/takagi-fanclub.webp',
-        title: '😅 高木同学Fan社区',
+        title: '❌ 高木同学Fan社区',
         desc: '属于高木厨的独立社区论坛 (by @轻虹空雨）',
         link: 'https://club.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-imgshare.webp',
-        title: '😅 高木同学共享云图仓',
+        title: '❌ 高木同学共享云图仓',
         desc: '实用&共享的高木美图云仓 (by @轻虹空雨）',
         link: 'https://shareimg.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-filecloud.webp',
-        title: '✅ 高木同学文件资料站',
+        title: '✅ 高木同学文件资料（镜像）',
         desc: '大家一般需要的资源，都在这了（合作建设）',
-        link: 'https://share.takagi3.top'
+        link: 'https://al.tkgso.fun'
       },
       {
         icon: 'https://takagi3.me/favicon.ico',
@@ -194,7 +194,7 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
-    title: '其他 🤔',
+    title: '其他 ✅',
     items: [
       {
         icon: '/icons/Gesun-203-Jan-cover-modified.webp',

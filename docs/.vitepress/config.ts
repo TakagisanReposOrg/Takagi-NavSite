@@ -9,28 +9,6 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '高木同学站点导航',
   description: '聚合《高木同学》有关链接的网站',
-  head: [
-    // ...
-  
-    ['script', { async: true, src: 'https://analytics.takagi3.top/script.js', 'data-website-id': 'fbf6c344-0f7b-4fdb-8bea-366eb611c5ee' }],
-    [
-      'script',
-      {},
-      `
-        var _paq = window._paq = window._paq || [];
-        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (function() {
-          var u="//analytics.aurorainic.top/";
-          _paq.push(['setTrackerUrl', u+'matomo.php']);
-          _paq.push(['setSiteId', '3']);
-          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-          g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-        })();
-      `,
-    ]
-    ],
 
   lastUpdated: true,
   cleanUrls: true,

@@ -15,8 +15,8 @@ import { NAV_DATA } from './data'
 ::: tip
 **欢迎访问 高木同学站点导航** |
 **站长：**@[辰灿汐](https://aurorainic.top) |
-**收录申请：**[Feedback@takagi3.cn](mailto:feedback@takagi3.cn)<br>
-**更新时间：2024.8.2 18:06** | **目前已收录 34 条链接**
+**收录申请：**[tech-club@takagi3.cn](mailto:tech-club@takagi3.cn)<br>
+**更新时间：2024.10.19 17:10** | **目前已收录 28 条链接**
 :::
 ::: warning 注意
 部分站点（尤其是“民间自建站点”）由于停止维护/项目终止等原因无法访问。

@@ -82,16 +82,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://wiki.takagi3.cn/'
       },
       {
-        icon: '/icons/takagi-fanclub.webp',
-        title: '❌ 高木同学Fan社区',
-        desc: '属于高木厨的独立社区论坛 (by @轻虹空雨）',
-        link: 'https://club.takagi3.cn/'
-      },
-      {
         icon: '/icons/takagi-imgshare.webp',
-        title: '❌ 高木同学共享云图仓',
-        desc: '实用&共享的高木美图云仓 (by @轻虹空雨）',
-        link: 'https://shareimg.takagi3.cn/'
+        title: '✅ 高木同学共享云图仓',
+        desc: '能全则全',
+        link: 'https://img.takagi3.cn/'
       },
       {
         icon: '/icons/takagi-filecloud.webp',
@@ -104,12 +98,6 @@ export const NAV_DATA: NavData[] = [
         title: '✅ からかい上手の高木さん资源站 ',
         desc: '一触即达的资源站（by @松柏陈门）',
         link: 'https://fujianprovince.github.io/takagi'
-      },
-      {
-        icon: 'https://pic.mufeng086.com/i/2023/09/16/nc44ft.webp',
-        title: '❌ 高木同学同人周边Go',
-        desc: '高木同学同人周边展示区',
-        link: 'https://sell.takagi3.top'
       }
     ]
   },
@@ -130,11 +118,6 @@ export const NAV_DATA: NavData[] = [
         icon: '/icons/qq.webp',
         title: 'QQ频道',
         link: 'https://pd.qq.com/s/cp4k08j75'
-      },
-      {
-        icon: '/icons/fanbook.webp',
-        title: 'Fanbook社区',
-        link: 'https://in.fanbook.cn/gKGQ6FZj'
       }
     ]
   },
